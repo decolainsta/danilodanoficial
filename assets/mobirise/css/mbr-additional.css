@@ -1063,45 +1063,6 @@ section.lazy-placeholder:after {
 .cid-s0L5uwIqZJ .mbr-section-btn {
   color: #2407e8;
 }
-.cid-s0NkcnCoY9 {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background-color: #f89b0a;
-  background: linear-gradient(45deg, #f89b0a, #2407e8);
-}
-.cid-s0NkcnCoY9 .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-s0NkcnCoY9 .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s0NkcnCoY9 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s0NkcnCoY9 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-s1lNYoanbT {
-  padding-top: 30px;
-  padding-bottom: 120px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-s1lNYoanbT .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-s1lNYoanbT .social-list a:focus {
-  text-decoration: none;
-}
 .cid-s0L96ZQZre {
   padding-top: 30px;
   padding-bottom: 30px;
